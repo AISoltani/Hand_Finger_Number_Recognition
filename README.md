@@ -88,8 +88,8 @@ python train_finger_recognition.py
 ```
 
 # Training Configuration
-Image Size: 128x128
-Batch Size: 60
-Number of Classes: 6 (corresponding to finger numbers 0-5)
-Epochs: 2
-Device: CUDA (GPU acceleration)
+- Image Size: 128x128
+- Batch Size: 60
+- Number of Classes: 6 (corresponding to finger numbers 0-5)
+- Epochs: 2
+- Device: CUDA (GPU acceleration)
