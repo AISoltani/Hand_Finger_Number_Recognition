@@ -23,6 +23,6 @@ The dataset is assumed to be stored in the following directories:
 - ./test - Contains test images with the same naming convention.
 The dataset should be organized such that each image is in a folder corresponding to its label.
 
-Code Explanation
+# Code Explanation
 1. FingerNumber Dataset Class
 This class is used to load and preprocess the images. Each image is associated with a label, which is extracted from the file name. The image is loaded using skimage.io.imread, then expanded to have 3 color channels. The images are then transformed (resized and converted to tensor format) before being returned for model training.
