@@ -86,7 +86,7 @@ Run the script to train the model, evaluate it, and test it.
 ```bash
 python train_finger_recognition.py
 ```
-
+![Alt Text](https://raw.githubusercontent.com/AISoltani/Hand_Finger_Number_Recognition/refs/heads/main/Screenshot%202024-12-10%20203708.png)
 # Training Configuration
 - Image Size: 128x128
 - Batch Size: 60
